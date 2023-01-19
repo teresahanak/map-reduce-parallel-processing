@@ -1,2 +1,3 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=teresahanak) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/teresahanak/map-reduce-parallel-processing) ![GitHub contributors](https://img.shields.io/github/contributors/teresahanak/map-reduce-parallel-processing) ![GitHub language count](https://img.shields.io/github/languages/count/teresahanak/map-reduce-parallel-processing) ![GitHub top language](https://img.shields.io/github/languages/top/teresahanak/map-reduce-parallel-processing) ![GitHub last commit](https://img.shields.io/github/last-commit/teresahanak/map-reduce-parallel-processing)  
 # map_reduce_parallel_processing
 An Example Implementation of map_reduce for Parallel Processing to Find Substrings on Wikipedia Pages
